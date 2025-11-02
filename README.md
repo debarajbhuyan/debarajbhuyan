@@ -1,18 +1,79 @@
-- 👋 Hi, I’m Debaraj Bhuyan
-- 
-- 👀 I’m interested in: Android development, particularly using Kotlin and Jetpack Compose to build beautiful and user-friendly mobile applications.
-- 
-- 🌱 I’m currently learning: I'm currently on a journey to master Jetpack Compose and become a go-to expert in crafting exceptional Android experiences.
-- 
-- 💞️ I’m looking to collaborate on: open-source Android projects or any projects that involve creating innovative and impactful mobile experiences.
-- 
-- 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/debaraj-bhuyan/) or send me an email at noscriptdigisolution@gmail.com (work E-mail ID)
-- 
-- 😄 Pronouns: He/Him
-- 
-- ⚡ Fun fact: I'm currently making my way through Call of Duty: Modern Warfare II on PS5 (even with Modern Warfare III out now!). Finding time to game between coding projects is a challenge, but those virtual battles are the perfect way to de-stress!
+👋 Hi, I'm Debaraj Bhuyan
 
-<!---
-debarajbhuyan/debarajbhuyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Current Focus: IoT development and embedded systems, leveraging my electrical engineering expertise to build smart, connected solutions that bridge hardware and software.​
+
+⚡ Professional Background: Electrical Engineer at Ordnance Factory (Government of India), with a diverse technical journey spanning Android development, SEO/digital marketing, and now specializing in IoT systems and automation.​
+
+🛠️ Technical Evolution: Started with Android development using Kotlin and Jetpack Compose, expanded into SEO and digital marketing where I successfully ranked websites on Google, and currently applying my electrical engineering foundation to IoT projects and embedded systems.​
+
+🌱 What I'm Learning: Deepening expertise in IoT protocols, sensor integration, microcontroller programming, and cloud connectivity for industrial and smart automation applications.​
+
+🔧 Core Skills:
+
+IoT Development & Embedded Systems
+
+Electrical Systems & Control Engineering
+
+Android Development (Kotlin, Jetpack Compose)
+
+SEO & Digital Marketing
+
+Web Development & WordPress
+
+Content Strategy & Technical Writing​
+
+💞️ Open to Collaborate On: IoT projects, industrial automation solutions, open-source hardware/software initiatives, and innovative applications combining electrical engineering with emerging technologies.​
+
+📫 Reach Me:
+
+LinkedIn: linkedin.com/in/debaraj-bhuyan
+
+Email: noscriptdigisolution@gmail.com​
+
+😄 Pronouns: He/Him
+
+⚡ Fun Fact: When I'm not engineering solutions or tinkering with IoT devices, you'll find me gaming on PS5—currently working through Call of Duty while juggling projects across multiple tech domains !​
+
+Key Updates
+This version emphasizes your electrical engineering role at the Ordnance Factory as your core professional identity, which adds significant credibility to your IoT work since electrical engineering and IoT naturally complement each other. The profile now positions your career progression as a logical evolution—electrical engineering provides the foundation for IoT hardware understanding, while your Android and web development experience brings the software expertise needed for complete IoT solutions. This combination makes you stand out as someone who can handle both the electrical/hardware and software sides of IoT projects.​
+
+change this email id to debarajbhuyan92@gmail.com
+
+Here's your updated GitHub profile description with the new email address:
+
+Updated GitHub Profile Description
+👋 Hi, I'm Debaraj Bhuyan
+
+💡 Current Focus: IoT development and embedded systems, leveraging my electrical engineering expertise to build smart, connected solutions that bridge hardware and software.​
+
+⚡ Professional Background: Electrical Engineer at Ordnance Factory (Government of India), with a diverse technical journey spanning Android development, SEO/digital marketing, and now specializing in IoT systems and automation.​
+
+🛠️ Technical Evolution: Started with Android development using Kotlin and Jetpack Compose, expanded into SEO and digital marketing where I successfully ranked websites on Google, and currently applying my electrical engineering foundation to IoT projects and embedded systems.​
+
+🌱 What I'm Learning: Deepening expertise in IoT protocols, sensor integration, microcontroller programming, and cloud connectivity for industrial and smart automation applications.​
+
+🔧 Core Skills:
+
+IoT Development & Embedded Systems
+
+Electrical Systems & Control Engineering
+
+Android Development (Kotlin, Jetpack Compose)
+
+SEO & Digital Marketing
+
+Web Development & WordPress
+
+Content Strategy & Technical Writing​
+
+💞️ Open to Collaborate On: IoT projects, industrial automation solutions, open-source hardware/software initiatives, and innovative applications combining electrical engineering with emerging technologies.​
+
+📫 Reach Me:
+
+LinkedIn: linkedin.com/in/debaraj-bhuyan
+
+Email: debarajbhuyan92@gmail.com​
+
+😄 Pronouns: He/Him
+
+⚡ Fun Fact: When I'm not engineering solutions or tinkering with IoT devices, you'll find me gaming on PS5—currently working through Call of Duty while juggling projects across multiple tech domains !
