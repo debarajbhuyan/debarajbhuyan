@@ -28,8 +28,8 @@ Content Strategy & Technical Writing​
 
 LinkedIn: linkedin.com/in/debaraj-bhuyan
 
-Email: debarajbhuyan92@gmail.com
+Email: debarajbhuyan92@gmail.com​
 
 😄 Pronouns: He/Him
 
-⚡ Fun Fact: When I'm not engineering solutions or tinkering with IoT devices, you'll find me gaming on PS5—currently working through Call of Duty while juggling projects across multiple tech domains !​
+⚡ Fun Fact: When I'm not engineering solutions or tinkering with IoT devices, you'll find me gaming on PS5—currently working through Call of Duty while juggling projects across multiple tech domains !
