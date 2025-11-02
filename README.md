@@ -28,7 +28,7 @@ Content Strategy & Technical Writing​
 
 LinkedIn: linkedin.com/in/debaraj-bhuyan
 
-Email: noscriptdigisolution@gmail.com​
+Email: debarajbhuyan92@gmail.com
 
 😄 Pronouns: He/Him
 
